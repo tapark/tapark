@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Photoshop-3DDC84?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
 
 
 Adobe Photoshop
