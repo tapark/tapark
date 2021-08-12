@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/Firebase-FF7139?style=flat-square&logo=Firebase&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-FF7139?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
-Visual_Studio_Code
+<img src="https://img.shields.io/badge/Android_Studio-FF7139?style=flat-square&logo=Android_Studio&logoColor=white"/></a>
